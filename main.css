@@ -8,4 +8,20 @@ body{
     height: 100px;
     background-color: #56cf3e;
     display: inline-block;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+
+.box-2{
+    width: 100px;
+    height: 100px;
+    background-color: #cfb93e;
+    display: block;
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px; 
 }
